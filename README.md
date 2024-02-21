@@ -32,5 +32,5 @@ Welcome to the Flask-Blog-App GitHub repository! This web application is built u
 1. Clone or fork this repository.
 2. Set up a virtual environment and install the required dependencies.
 3. Configure your database settings in the Flask application.
-4. Run the Flask application using `python app.py`.
+4. Run the Flask application using `python main.py`.
 5. Access the application in your web browser.
